@@ -1,6 +1,5 @@
-# PROFFY
+<img src="https://i.postimg.cc/RCf3qdWr/Untitled-1.png"><br>
 Your online study platform - be a teacher and teach, or look for teachers of interest to you :books:
-  <center> <img width="80%" src="https://i.postimg.cc/BSqx1dxT/landingpage.png">>
   
   
 # TECHNOLOGIES :computer:
