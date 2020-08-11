@@ -1,11 +1,18 @@
-# Proffy
+# PROFFY :books:
 Plataforma para estudantes e professores se conectarem. 
 
+# TECHNOLOGIES :computer:
+
+<strong>Node.JS</strong> version 14.7.0 <br>
+<strong>Express</strong> version 4.17.1 <br>
+<strong>SQlite</strong>
 
 # INSTALLATION
 
-- Node: npm install
+1: git clone https://github.com/whoareale/Proffy.git :checklist:
 
-- Express: npm install express
+2: npm install :checkered_flag:
 
-- SQlite: npm install sqlite-async
+3: npm start :checkered_flag:
+
+5: Open http://localhost:5500 (you can change the port if you want in arquive <strong>server.js</strong>). :checkered_flag:
