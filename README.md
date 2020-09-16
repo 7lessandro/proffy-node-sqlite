@@ -1,7 +1,3 @@
-<img src="https://i.postimg.cc/RCf3qdWr/Untitled-1.png"><br>
-Your online study platform - be a teacher and teach, or look for teachers of interest to you :books:
-  
-  
 # TECHNOLOGIES :computer:
 
 <strong>Node.JS</strong> version 14.7.0 <br>
