@@ -28,7 +28,7 @@
         <br>
 - Nodemon
         <br>
-  Nunjucks
+- Nunjucks
         <br>
 - SQLite</p>
 
