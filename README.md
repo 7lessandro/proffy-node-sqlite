@@ -45,7 +45,7 @@ YOUR ONLINE STUDY PLATFORM :purple_heart:</h4>
 </p>
 
 <h1 align="left">
-    :memo: Licença
+    :memo: License
 </h1>
 <p align="left">Project licensed by MIT. <a href="https://github.com/ascenciodev/nlw2_proffy/blob/master/LICENSE">Click here</a> for more information.</p>
 <hr>
