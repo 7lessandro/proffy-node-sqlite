@@ -1,20 +1,20 @@
 <h4 align="center"><img align="center" src="https://github.com/ascenciodev/nlw2_proffy/blob/master/notion/logoproffy.png"><br>
-  SUA PLATAFORMA DE ESTUDOS ONLINE :purple_heart:</h4>
+YOUR ONLINE STUDY PLATFORM :purple_heart:</h4>
 
 <img src="https://github.com/ascenciodev/nlw2_proffy/blob/master/notion/proffyproject.png">
 
 <h1 align="left">
-    :bulb: O que é o "Proffy"?
+    :bulb: What is "Proffy"?
 </h1>
-<p align="left">Proffy é uma plataforma criada para conectar pessoas interessadas em dar aulas particulares e, também quem está em busca de aulas particulares (<i>conecta alunos e professores</i>)</p>
+<p align="left">Proffy is a platform created to connect people interested in giving private lessons and also those looking for private lessons (<i>connects students and teachers</i>)</p>
 
 <h1 align="left">
-    :rocket: Projeto
+    :rocket: The Project
 </h1>
-<p align="left">O projeto foi feito durante a semana da Next Level Week #2 (<a href="https://rocketseat.com.br/">Rocketseat</a>). Que possui o intuito de alavancar os conhecimentos através de uma aplicação <i>full stack</i>.</p>
+<p align="left">The project was made during the week of Next Level Week #2 (<a href="https://rocketseat.com.br/">Rocketseat</a>), which aims to raise the level of knowledge through a <i>full stack</i> application.</p>
 
 <h1 align="left">
-    :wrench: Ferramentas e Tecnologias Utilizadas
+    :wrench: Technologies
 </h1>
 <p align="left">- HTML5
         <br>
@@ -33,20 +33,20 @@
 - SQLite</p>
 
 <h1 align="left">
-    :rotating_light: Instalação
+    :rotating_light: Installation
 </h1>
-<p align="left">1 • Entre no repositório padrão e copie o projeto com o comando:  <strong>git clone https://github.com/ascenciodev/nlw2_proffy.git</strong>
+<p align="left">1 - Clone this repository.
 <br>
-        2 • Entre no terminal e instale o NPM: <strong>npm install</strong>
+        2 - Enter the terminal and install the dependencies using the <strong>npm install</strong> command.
         <br>
-        3 • Após concluir à instalação: <strong>npm start</strong>
+        3 - Start the application with the <strong>npm start</strong> command.
         <br>
-        4 • Acesse através da URL: <strong>http://localhost:5500</strong>
+        4 - Enter the url: <strong>http://localhost:5500</strong>
 </p>
 
 <h1 align="left">
     :memo: Licença
 </h1>
-<p align="left">Projeto licenciado pela MIT. <a href="https://github.com/ascenciodev/nlw2_proffy/blob/master/LICENSE">Clique aqui</a> para mais informações.</p>
+<p align="left">Project licensed by MIT. <a href="https://github.com/ascenciodev/nlw2_proffy/blob/master/LICENSE">Click here</a> for more information.</p>
 <hr>
-<h4 align="center">Criado com :purple_heart: por Alessandro Ascencio</h4>
+<h4 align="center">Created with :purple_heart: by Alessandro Ascencio</h4>
